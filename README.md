@@ -1,0 +1,6 @@
+# Periculum_Group_B
+This is a simple minimal set of codes to create a Python Package
+
+TEST PUSHING...
+...
+"# Periculum_Group_B" 
